@@ -169,3 +169,8 @@ main {
 .hidden {
   display: none;
 }
+
+.player-wins {
+  font-weight: 700;
+  color: #c7365f;
+}
